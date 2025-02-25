@@ -54,4 +54,4 @@ This tool is intended for security research and assessment purposes only. Use re
 
 ## License
 
-[Add your license information here]
+@ MIT License 2025
